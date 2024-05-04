@@ -1,5 +1,5 @@
 {
-  "name": "depo",
+  "name": "Hook Production",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NatalyaKlenkova/DePO.git"
+    "url": "git+https://github.com/NatalyaKlenkova/Hook-Production-Test.git"
   },
   "author": "Natalya Klenkova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NatalyaKlenkova/DePO/issues"
+    "url": "https://github.com/NatalyaKlenkova/Hook-Production-Test/issues"
   },
-  "homepage": "https://github.com/NatalyaKlenkova/DePO",
+  "homepage": "https://github.com/NatalyaKlenkova/Hook-Production-Test",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
